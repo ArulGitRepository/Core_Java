@@ -4,11 +4,9 @@ public class ArmstrongNumber {
 	
 	public static void main(String[] args) {
 		
-		int n = 123;
-		int temp = n;
-		int p = 0;
+		int n = 123,temp = n,p = 0;
 
-		/*function to calculate
+		/*function to calculatefbfdf
 		the sum of individual digits
 		*/
 		while (n > 0) {
