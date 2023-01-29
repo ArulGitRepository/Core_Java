@@ -5,8 +5,7 @@ public class ArmstrongNumber {
 	public static void main(String[] args) {
 		
 		int n = 123;
-		int temp = n;
-		int p = 0;
+		int temp = n,p = 0;
 
 		/*function to calculate
 		the sum of individual digits
